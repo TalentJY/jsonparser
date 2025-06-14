@@ -1,4 +1,4 @@
-module github.com/buger/jsonparser
+module github.com/TalentJY/jsonparser
 
 go 1.13
 
